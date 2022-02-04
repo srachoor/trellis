@@ -1,0 +1,17 @@
+{
+  "name": "trellis",
+  "version": "1.0.0",
+  "description": "Identifying Missing Policy Fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
